@@ -16,6 +16,6 @@ BSc Computer Science Systems Engineering | IT Support & Data Analysis
 - Key insight: 74% females vs 19% males survived. 1st class passengers had higher survival rate
 - Tools: Python, Pandas, Seaborn, Matplotlib
 
-**📫 LinkedIn:** [Add your LinkedIn URL here]  
+**📫 LinkedIn:** [linkedin.com/in/fortunate-katekani-mahlawule-452250233] (https://www.linkedin.com/in/fortunate-katekani-mahlawule-4522502) 
 **🎯 Open to:** IT Support Specialist / Technical Specialist / Graduate Program roles
 About me
